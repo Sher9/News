@@ -1,2 +1,2 @@
-react-native+redux
+react-native
 
